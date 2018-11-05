@@ -1,8 +1,6 @@
 formation git
 new line
 new line again
-<<<<<<< HEAD
 azeazeazeazeaze
-=======
 new line again again
->>>>>>> 1st-branch
+new line pull
